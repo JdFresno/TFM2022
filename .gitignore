@@ -1,0 +1,5 @@
+#Ignora el directorio pruebas
+pruebas/
+
+#Ignorar archivos de backup
+*.py.old
